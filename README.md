@@ -1,1 +1,2 @@
 # gyakorlo
+#Ez egy teszt
